@@ -21,4 +21,4 @@ Turing et Steve
 
 -TEL : 06.06.06.06.06
 
-* Version 1.0.0
+* Version 1.0.0 du 15/01/2024
