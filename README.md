@@ -5,9 +5,13 @@
 
 Test de la fonction devine() qui permet de trouver un nombre à trois chiffres qui soit divisibles par 9 tel que la somme du chiffre des unités et de celui des centaines soit égal au chiffre des dizaines.
 
-* Auteur 
+* Auteur des tests 
 
 Quentin BLASCO, Bachelor CSI (Conception de Sytèmes d'Informations)
+
+* Auteurs des codes
+
+Turing et Steve
 
 * Contacts
 
